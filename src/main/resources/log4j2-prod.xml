@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="DEBUG"> <!-- Cambiado a DEBUG para ver errores de Log4j -->
+    <Properties>
+        <Property name="LOG_PATTERN">%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</Property>
+        <Property name="LOG_FILE">logs/app.log</Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${LOG_PATTERN}" charset="UTF-8"/>
+        </Console>
+        <File name="FileLogger" fileName="${LOG_FILE}" append="true">
+            <PatternLayout pattern="${LOG_PATTERN}" charset="UTF-8"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Root level="DEBUG"> <!-- Cambiado a DEBUG para ver todos los logs -->
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileLogger"/>
+        </Root>
+    </Loggers>
+</Configuration>
