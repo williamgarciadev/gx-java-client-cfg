@@ -1,0 +1,88 @@
+2025-02-04 18:45:42 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 3
+2025-02-04 18:45:42 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 0
+2025-02-04 18:45:42 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 2
+2025-02-04 18:45:42 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 1
+2025-02-04 18:45:42 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 4
+2025-02-04 18:45:44 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 0
+2025-02-04 18:45:44 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 2
+2025-02-04 18:45:44 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 3
+2025-02-04 18:45:44 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 1
+2025-02-04 18:45:44 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 4
+2025-02-04 18:46:29 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 1
+2025-02-04 18:46:29 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 3
+2025-02-04 18:46:29 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 4
+2025-02-04 18:46:29 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 0
+2025-02-04 18:46:29 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 2
+2025-02-04 18:46:31 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 3
+2025-02-04 18:46:31 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 0
+2025-02-04 18:46:31 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 2
+2025-02-04 18:46:31 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 4
+2025-02-04 18:46:31 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 1
+2025-02-04 18:47:03 [main] INFO  com.william.garcia.ConfigReader - Cargando configuración para el perfil: prod
+2025-02-04 18:47:03 [main] INFO  com.william.garcia.ConfigReader - Configuración cargada correctamente desde config-prod.properties
+2025-02-04 18:47:03 [main] INFO  com.william.garcia.ApiClient - Conectando a la API en: https://api.miapp.com
+2025-02-04 18:47:03 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 2
+2025-02-04 18:47:03 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 1
+2025-02-04 18:47:03 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 0
+2025-02-04 18:47:03 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 4
+2025-02-04 18:47:03 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 3
+2025-02-04 18:47:05 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 1
+2025-02-04 18:47:05 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 2
+2025-02-04 18:47:05 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 0
+2025-02-04 18:47:05 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 4
+2025-02-04 18:47:05 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 3
+2025-02-04 18:48:51 [main] INFO  com.william.garcia.ConfigReader - Cargando configuración para el perfil: prod
+2025-02-04 18:48:51 [main] INFO  com.william.garcia.ConfigReader - Configuración cargada correctamente desde config-prod.properties
+2025-02-04 18:48:51 [main] INFO  com.william.garcia.ApiClient - Conectando a la API en: https://api.miapp.com
+2025-02-04 18:48:51 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 1
+2025-02-04 18:48:51 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 0
+2025-02-04 18:48:51 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 2
+2025-02-04 18:48:51 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 3
+2025-02-04 18:48:51 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 4
+2025-02-04 18:48:53 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 2
+2025-02-04 18:48:53 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 3
+2025-02-04 18:48:53 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 4
+2025-02-04 18:48:53 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 0
+2025-02-04 18:48:53 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 1
+2025-02-04 18:49:20 [main] INFO  com.william.garcia.ConfigReader - Cargando configuración para el perfil: prod
+2025-02-04 18:49:20 [main] INFO  com.william.garcia.ConfigReader - Configuración cargada correctamente desde config-prod.properties
+2025-02-04 18:49:20 [main] INFO  com.william.garcia.ApiClient - Conectando a la API en: https://api.miapp.com
+2025-02-04 18:49:20 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 1
+2025-02-04 18:49:20 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 2
+2025-02-04 18:49:20 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 0
+2025-02-04 18:49:20 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 4
+2025-02-04 18:49:20 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 3
+2025-02-04 18:49:22 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 2
+2025-02-04 18:49:22 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 4
+2025-02-04 18:49:22 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 0
+2025-02-04 18:49:22 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 1
+2025-02-04 18:49:22 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 3
+2025-02-04 19:06:04 [main] INFO  com.william.garcia.ApiClient - Iniciando la aplicación...
+2025-02-04 19:06:04 [main] INFO  com.william.garcia.ApiClient - Cerrando ThreadPoolExecutor...
+2025-02-04 19:06:04 [main] INFO  com.william.garcia.ApiClient - Aplicación finalizada.
+2025-02-04 19:06:04 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 3
+2025-02-04 19:06:04 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 4
+2025-02-04 19:06:04 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 2
+2025-02-04 19:06:04 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 0
+2025-02-04 19:06:04 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conectando a la API en la solicitud 1
+2025-02-04 19:06:06 [pool-2-thread-3] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 2
+2025-02-04 19:06:06 [pool-2-thread-1] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 0
+2025-02-04 19:06:06 [pool-2-thread-4] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 3
+2025-02-04 19:06:06 [pool-2-thread-5] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 4
+2025-02-04 19:06:06 [pool-2-thread-2] INFO  com.william.garcia.ApiClient - Conexión exitosa en la solicitud 1
+2025-02-07 13:47:32 [main] INFO  com.william.garcia.Main - Iniciando la aplicación...
+2025-02-07 13:47:32 [main] INFO  com.william.garcia.Main - Conectando al servidor FTP...
+2025-02-07 13:47:34 [main] INFO  com.william.garcia.Main - Listado de archivos y directorios en: /
+2025-02-07 13:47:34 [main] INFO  com.william.garcia.Main - [FILE] Recimiv.tsk
+2025-02-07 13:50:50 [main] INFO  com.william.garcia.Main - Iniciando la aplicación...
+2025-02-07 13:50:50 [main] INFO  com.william.garcia.Main - Conectando al servidor FTP...
+2025-02-07 13:50:51 [main] INFO  com.william.garcia.Main - Listado de archivos y directorios en: /
+2025-02-07 13:50:51 [main] INFO  com.william.garcia.Main - [FILE] Recimiv.tsk
+2025-02-07 13:50:51 [main] INFO  com.william.garcia.Main - [FILE] SYSTEM.sql
+2025-02-07 13:50:51 [main] INFO  com.william.garcia.Main - [FILE] trace_sql.sql
+2025-02-07 13:51:44 [main] INFO  com.william.garcia.Main - Iniciando la aplicación...
+2025-02-07 13:51:44 [main] INFO  com.william.garcia.Main - Conectando al servidor FTP...
+2025-02-07 13:51:46 [main] INFO  com.william.garcia.Main - Listado de archivos y directorios en: /
+2025-02-07 13:51:46 [main] INFO  com.william.garcia.Main - [FILE] Recimiv.tsk
+2025-02-07 13:51:46 [main] INFO  com.william.garcia.Main - [FILE] SYSTEM.sql
+2025-02-07 13:51:46 [main] INFO  com.william.garcia.Main - [FILE] trace_sql.sql
