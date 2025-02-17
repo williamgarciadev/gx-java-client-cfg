@@ -17,8 +17,7 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 public class MyGXConnectionAct {
-    //private static final String CONFIG_FILE = "client.cfg"; // Ruta al archivo de configuración
-    //private static final String NAMESPACE = "com.dlya.bantotal";
+
     private static String url;
     private static final String PROPERTIES_FILE = "/log4j2.component.properties";
     private String packageName;
@@ -74,30 +73,6 @@ public class MyGXConnectionAct {
             logger.info("getRemoteAddr " + sss.getRemoteAddr());
             logger.info("getHeader " + sss.getHeader("GX_SESSION_ID"));
             logger.info("getCookie " + sss.getTheme());
-
-
-//            ClientPreferences prefs = Application.getClientPreferences();
-//            Field[] fields = ClientPreferences.class.getDeclaredFields();
-//            Arrays.stream(fields).forEach(field -> {
-//                field.setAccessible(true);
-//                try {
-//                    Object value = field.get(prefs);
-//                    System.out.println(field.getName() + " = " + value);
-//                } catch (IllegalAccessException e) {
-//                    e.printStackTrace();
-//                }
-//            });
-
-
-//            logger.info("Métodos disponibles en IHttpContext:");
-//            for (Method method : context.getClass().getMethods()) {
-//                logger.info(method.getName());
-//            }
-
-//            logger.info("Métodos disponibles en IHttpContext:");
-//            for (Method method : sss.getClass().getMethods()) {
-//                logger.info(method.getName());
-//            }
 
 
             // Leer configuración desde el archivo ini
